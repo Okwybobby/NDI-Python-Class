@@ -152,6 +152,18 @@ Click any **Open in Colab** button below to launch that notebook directly in Goo
 
 ---
 
+
+
+### Section 13 Machine Learning with Python
+
+| Notebook | Open in Colab |
+|----------|--------------|
+| 13_01 · Simple Regression (Rapidminer Example in Python)  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Okwybobby/NDI-Python-Class/blob/main/volve_linear_1.ipynb) |
+| 13_02 · Standard Regression   | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Okwybobby/NDI-Python-Class/blob/main/volve_linear_2.ipynb) |
+
+
+---
+
 ## 📄 Resources
 
 - [Getting Started with Python (PDF)](./Getting-Started-with-Python.pdf)
