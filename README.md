@@ -160,7 +160,7 @@ Click any **Open in Colab** button below to launch that notebook directly in Goo
 |----------|--------------|
 | 13_01 · Simple Regression (Rapidminer Example in Python)  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Okwybobby/NDI-Python-Class/blob/main/volve_linear_1.ipynb) |
 | 13_02 · Standard Regression   | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Okwybobby/NDI-Python-Class/blob/main/volve_linear_2.ipynb) |
-
+| 13_03 · More ML Models   | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Okwybobby/NDI-Python-Class/blob/main/volve_multiple_ml.ipynb) |
 
 ---
 
